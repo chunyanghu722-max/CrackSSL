@@ -1,0 +1,6 @@
+datasets/
+checkpoints/
+__pycache__/
+*.pyc
+*.log
+.env
